@@ -1,2 +1,3 @@
-permalink: /termos
-markdown: GFM
+# permalink: /termos
+# markdown: GFM
+markdown: kramdown
