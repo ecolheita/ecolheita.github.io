@@ -1,4 +1,2 @@
-### Écolheita
-
 - [Termos e condições](/TERMOS-E-CONDICOES)
 - [Política de privacidade](/POLITICA-DE-PRIVACIDADE)
