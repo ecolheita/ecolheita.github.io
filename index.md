@@ -1,2 +1,3 @@
 - [Termos e condições](/TERMOS-E-CONDICOES)
 - [Política de privacidade](/POLITICA-DE-PRIVACIDADE)
+- [Privacidade e Políticas de uso das Informações utilizadas pela ECOLHEITA](/PRIVACIDADE-E-POLITICAS-DE-USO-DAS-INFORMACOES)
